@@ -15,7 +15,19 @@
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/VishalShah1999/count.svg)
 
-![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=VishalShah1999&show_icons=true&theme=radical)
+# Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalShah1999&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<details>	
+  <summary><b>Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishalShah1999&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalShah1999&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
+</details>
+
+<details>	
+  <summary><b>Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalShah1999&hide_border=true" />
+</details>
 
